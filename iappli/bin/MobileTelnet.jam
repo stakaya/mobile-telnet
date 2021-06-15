@@ -1,0 +1,10 @@
+PackageURL = http://localhost/telnet/MobileTelnet.jar
+AppSize = 5682
+AppName = ” ﬁ¿∞—
+AppParam = dir type cd
+AppClass = Telnet
+UseNetwork = http
+AccessUserInfo = yes
+LastModified = Sat, 04 Jul 2009 12:58:32
+GetUtn = terminalid,userid
+AppIcon = icon.gif
